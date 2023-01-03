@@ -1,0 +1,3 @@
+The Starstone is a meteorite that tumbled to Golarion in the circular eastern section of the Inner Sea in -5293 AR. This event, known as Earthfall, caused the destruction of the ancient empires of Azlant and Thassilon, created the Inner Sea, and ushered in the Age of Darkness.
+
+The hero Aroden lifted it from the sea in 1 AR, becoming a god in the process. He founded the city of Absalom and placed the Starstone in the heart of the city. The stone now rests in the largest cathedral of the Ascendant Court where anyone can take the Test of the Starstone in order to attempt ascension to godhood. So far, only three mortals are known to have succeeded in the task, Cayden Cailean, Iomedae, and Norgorber.

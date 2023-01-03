@@ -1,0 +1,1 @@
+Cayden Cailean (pronounced KAY-den KAY-lee-en) is one of [[the Ascended]]: those who achieved godhood by passing the [[Test of the Starstone]]. Because of the way in which he passed the Test, he is also known as the "Lucky Drunk", "Drunken Hero", or the "Accidental God".

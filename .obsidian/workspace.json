@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dda88f22d70840b2",
+        "id": "6e6d05de2e3827f0",
         "type": "tabs",
         "children": [
           {
-            "id": "c578f81e0c0936f0",
+            "id": "591bcc88eb23107c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/Gods/Cayden Cailean.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Gods/Cayden Cailean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Gods/Cayden Cailean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "People/Gods/Cayden Cailean.md"
+              }
             }
           }
         ]
@@ -128,8 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e22255c528ae06bc",
+  "active": "591bcc88eb23107c",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Tests/Test of the Starstone.md",
+    "People/Gods/Cayden Cailean.md",
+    "People/Gods/The Ascended.md",
+    "People/Party/Sir Vistra of Corinth.md",
+    "Places/Starstone.md",
+    "Places/Makia.md",
+    "Places/Isle Egare.md",
+    "README.md",
+    "People/Untitled.md",
+    "2023-01-03.md"
   ]
 }
