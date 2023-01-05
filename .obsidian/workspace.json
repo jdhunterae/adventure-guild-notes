@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cd9ef6004696d04",
+        "id": "fd3a1a20c5b7a2e9",
         "type": "tabs",
         "children": [
           {
-            "id": "ebf70be53a9e3f00",
+            "id": "4b28b1c419be1da1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -87,7 +87,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,8 +125,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,15 +150,15 @@
   },
   "active": "ebf70be53a9e3f00",
   "lastOpenFiles": [
-    "People/Gods/Cayden Cailean.md",
-    "Tests/Test of the Starstone.md",
-    "People/Gods/The Ascended.md",
+    "People/Groups/The Guild.md",
+    "People/Party/Player Brian.md",
+    "People/Party/Player Steph.md",
+    "People/Party/Player Ashley.md",
+    "People/Party/Player Jessica.md",
+    "People/Party/Player Fred.md",
+    "People/Party/Player Chris.md",
+    "People/Party/Player Danielle.md",
     "People/Party/Sir Vistra of Corinth.md",
-    "Places/Starstone.md",
-    "Places/Makia.md",
-    "Places/Isle Egare.md",
-    "README.md",
-    "People/Untitled.md",
-    "2023-01-03.md"
+    "People/The Guild/Adventurer 9.md"
   ]
 }

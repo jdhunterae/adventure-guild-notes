@@ -1,3 +1,9 @@
+| Key | Value |
+|-----|-------|
+| Player | Amanda |
+| Class | Paladin |
+| Race | Human |
+
 Sir Vistra of Corinth is a human Oath of the Ancients Paladin. He is brash and overconfident in his strength and faith in Pelor.
 
 ## History
