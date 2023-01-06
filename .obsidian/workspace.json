@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94bf488ed860c4de",
+        "id": "bdc088b2f021df05",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd805a9816abd71",
+            "id": "92b1e13f053a7944",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -121,12 +121,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcd805a9816abd71",
+  "active": "92b1e13f053a7944",
   "lastOpenFiles": [
-    "res/maps/Falonde.png",
-    "res/maps/Sirisea.png",
-    "Places/Makia.md",
+    "Tests/Test of the Starstone.md",
+    "Places/Falonde.md",
     "Places/Cities/Banda, City of the Silver Tree.md",
     "Places/Castles/Zigiml's Hold.md",
     "Places/Untitled.md",
     "People/Groups/The Guild.md",
     "People/Party/Player Brian.md",
     "People/Party/Player Steph.md",
-    "People/Party/Player Ashley.md"
+    "People/Party/Player Ashley.md",
+    "People/Party/Player Jessica.md"
   ]
 }
