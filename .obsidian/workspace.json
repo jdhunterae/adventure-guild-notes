@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fd3a1a20c5b7a2e9",
+        "id": "d43a1e7fbea2a8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "4b28b1c419be1da1",
+            "id": "376225f88a3ed81c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Places/Makia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Places/Makia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Places/Makia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Places/Makia.md"
+              }
             }
           }
         ]
@@ -139,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e22255c528ae06bc",
+  "active": "376225f88a3ed81c",
   "lastOpenFiles": [
+    "Places/Cities/Banda, City of the Silver Tree.md",
+    "Places/Castles/Zigiml's Hold.md",
+    "Places/Untitled.md",
     "People/Groups/The Guild.md",
     "People/Party/Player Brian.md",
     "People/Party/Player Steph.md",
     "People/Party/Player Ashley.md",
     "People/Party/Player Jessica.md",
     "People/Party/Player Fred.md",
-    "People/Party/Player Chris.md",
-    "People/Party/Player Danielle.md",
-    "People/Party/Sir Vistra of Corinth.md",
-    "People/The Guild/Adventurer 9.md"
+    "People/Party/Player Chris.md"
   ]
 }
