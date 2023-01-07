@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bdc088b2f021df05",
+        "id": "20db75336bfd173e",
         "type": "tabs",
         "children": [
           {
-            "id": "92b1e13f053a7944",
+            "id": "b1aad1a66cadd25b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,36 +120,46 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "18b82c9d15af785c",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "92b1e13f053a7944",
+  "active": "b1aad1a66cadd25b",
   "lastOpenFiles": [
-    "Tests/Test of the Starstone.md",
+    "Events/Earthfall.md",
+    "Places/Starstone.md",
+    "res/maps/Falonde.png",
     "Places/Falonde.md",
+    "Tests/Test of the Starstone.md",
     "Places/Cities/Banda, City of the Silver Tree.md",
     "Places/Castles/Zigiml's Hold.md",
     "Places/Untitled.md",
     "People/Groups/The Guild.md",
-    "People/Party/Player Brian.md",
-    "People/Party/Player Steph.md",
-    "People/Party/Player Ashley.md",
-    "People/Party/Player Jessica.md"
+    "People/Party/Player Brian.md"
   ]
 }
