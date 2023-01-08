@@ -1,0 +1,228 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Falondean Calendar",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Moonsday",
+            "id": "ID_a8684ba8483a"
+          },
+          {
+            "type": "day",
+            "name": "Secondsday",
+            "id": "ID_79ab4afa082b"
+          },
+          {
+            "type": "day",
+            "name": "Windsday",
+            "id": "ID_f87b6bbb7b38"
+          },
+          {
+            "type": "day",
+            "name": "Earthsday",
+            "id": "ID_d988d9583a3a"
+          },
+          {
+            "type": "day",
+            "name": "Firesday",
+            "id": "ID_bb28c9782b79"
+          },
+          {
+            "type": "day",
+            "name": "Watersday",
+            "id": "ID_e9bbc9f88878"
+          },
+          {
+            "type": "day",
+            "name": "Sunsday",
+            "id": "ID_d9fba8db5be8"
+          },
+          {
+            "type": "day",
+            "name": "Octeday",
+            "id": "ID_597a19c8da98"
+          }
+        ],
+        "months": [
+          {
+            "name": "Ick",
+            "type": "month",
+            "length": 16,
+            "id": "ID_5aa868a84be9"
+          },
+          {
+            "name": "Offle",
+            "type": "month",
+            "length": 32,
+            "id": "ID_aac8a97859b8"
+          },
+          {
+            "name": "February",
+            "type": "month",
+            "length": 32,
+            "id": "ID_0aba48ba98f9"
+          },
+          {
+            "name": "March",
+            "type": "month",
+            "length": 32,
+            "id": "ID_4aea685ae9d8"
+          },
+          {
+            "name": "April",
+            "type": "month",
+            "length": 32,
+            "id": "ID_897b68bbaba8"
+          },
+          {
+            "name": "May",
+            "type": "month",
+            "length": 32,
+            "id": "ID_2808583a789a"
+          },
+          {
+            "name": "June",
+            "type": "month",
+            "length": 32,
+            "id": "ID_0a386beab97b"
+          },
+          {
+            "name": "Grune",
+            "type": "month",
+            "length": 32,
+            "id": "ID_7a58bac848da"
+          },
+          {
+            "name": "August",
+            "type": "month",
+            "length": 32,
+            "id": "ID_8b8ac80b08aa"
+          },
+          {
+            "name": "Spune",
+            "type": "month",
+            "length": 32,
+            "id": "ID_48c989a8f89b"
+          },
+          {
+            "name": "Sektober",
+            "type": "month",
+            "length": 32,
+            "id": "ID_da6a4afa8888"
+          },
+          {
+            "name": "Ember",
+            "type": "month",
+            "length": 32,
+            "id": "ID_094ad84a3b4b"
+          },
+          {
+            "name": "December",
+            "type": "month",
+            "length": 32,
+            "id": "ID_f99a0b1b1bc9"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Luna",
+            "cycle": 32,
+            "offset": 1,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_b9f94a6a1b0b"
+          },
+          {
+            "name": "Celene",
+            "cycle": 48,
+            "offset": 42,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_fba92bf9a99b"
+          }
+        ],
+        "leapDays": [],
+        "eras": [],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": false
+      },
+      "current": {
+        "year": 57,
+        "day": 1,
+        "month": 0
+      },
+      "events": [
+        {
+          "name": "Earthfall",
+          "description": "The day the [[Starstone]] crashed to Falonde.",
+          "date": {
+            "year": -68,
+            "day": 7,
+            "month": 10
+          },
+          "id": "ID_796bc81b0a9b",
+          "note": "Events/Earthfall",
+          "category": null
+        },
+        {
+          "id": "ID_7acaa8bb3b5a",
+          "name": "Earthfall",
+          "note": "Events/Earthfall.md",
+          "date": {
+            "year": -68,
+            "month": 10,
+            "day": 7
+          },
+          "end": null,
+          "description": "",
+          "auto": true
+        }
+      ],
+      "id": "ID_58c9ebc8999a",
+      "categories": [
+        {
+          "id": "ID_6868bbf8abc8",
+          "color": "#f7f98b",
+          "name": "Holydays"
+        }
+      ],
+      "timelineTag": "#timeline",
+      "autoParse": true,
+      "path": "/",
+      "supportTimelines": true,
+      "syncTimelines": false
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_58c9ebc8999a",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": true,
+    "advanced": false
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "obsidian-minimal-settings",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "obsidian-tasks-plugin",
+  "table-editor-obsidian",
+  "fantasy-calendar"
 ]
