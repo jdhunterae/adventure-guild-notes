@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd3a1a20c5b7a2e9",
+        "id": "8956ef60a5c8e645",
         "type": "tabs",
         "children": [
           {
-            "id": "4b28b1c419be1da1",
+            "id": "34a041f2ba69b2c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "right": {
     "id": "0a2f86382b87fc17",
@@ -125,31 +125,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
-    }
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
-    }
-  },
-  "active": "ebf70be53a9e3f00",
+  "active": "34a041f2ba69b2c0",
   "lastOpenFiles": [
+    "README.md",
     "People/Groups/The Guild.md",
     "People/Party/Player Brian.md",
     "People/Party/Player Steph.md",
@@ -158,7 +139,6 @@
     "People/Party/Player Fred.md",
     "People/Party/Player Chris.md",
     "People/Party/Player Danielle.md",
-    "People/Party/Sir Vistra of Corinth.md",
-    "People/The Guild/Adventurer 9.md"
+    "People/Party/Sir Vistra of Corinth.md"
   ]
 }
