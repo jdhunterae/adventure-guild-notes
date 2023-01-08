@@ -11,11 +11,28 @@
             "id": "b1aad1a66cadd25b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Places/Cities/Erford.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8f21203485ad7e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 213.5
   },
   "right": {
     "id": "0a2f86382b87fc17",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -142,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,17 +179,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "b1aad1a66cadd25b",
+  "active": "d8f21203485ad7e3",
   "lastOpenFiles": [
+    "castle=1&plaza=1&temple=1&walls=1&shantytown=1&coast=0&river=0&hub=1.md",
+    "Places/Cities/Thired-upon-Sunt.md",
+    "Places/Falonde.md",
+    "Places/Cities/Erford.md",
+    "res/maps/Falonde.png",
     "Events/Earthfall.md",
     "Places/Starstone.md",
-    "res/maps/Falonde.png",
-    "Places/Falonde.md",
     "Tests/Test of the Starstone.md",
     "Places/Cities/Banda, City of the Silver Tree.md",
-    "Places/Castles/Zigiml's Hold.md",
-    "Places/Untitled.md",
-    "People/Groups/The Guild.md",
-    "People/Party/Player Brian.md"
+    "Places/Castles/Zigiml's Hold.md"
   ]
 }
