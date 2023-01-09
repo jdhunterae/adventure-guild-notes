@@ -1,5 +1,69 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1673229651545,
+      "markers": [
+        {
+          "id": "ID_192a5b181929",
+          "type": "City",
+          "loc": [
+            -1.3772583343088627,
+            5.340820457602618
+          ],
+          "link": "Thired-upon-Sunt",
+          "layer": "%5B%5BFalonde.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Home of the [[Ember Swords]]",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_483aa80b8a7b",
+          "type": "Mountain",
+          "loc": [
+            -1.314281851053238,
+            6.314956354843339
+          ],
+          "link": "Lonmar Heights",
+          "layer": "%5B%5BFalonde.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Home of the Lonmar Dwarves",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78e80a2aa909",
+          "type": "City",
+          "loc": [
+            -1.4951415657997131,
+            6.240794320704735
+          ],
+          "link": "Corinth",
+          "layer": "%5B%5BFalonde.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Places/Falonde.md",
+        "Places/Cities/Thired-upon-Sunt.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

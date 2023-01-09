@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f906e5075efde6aa",
+        "id": "613f3792a845bd52",
         "type": "tabs",
         "children": [
           {
-            "id": "f736b02c3b76efb6",
+            "id": "9fcfaf066fd81c3f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "0a2f86382b87fc17",
@@ -158,8 +159,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "f736b02c3b76efb6",
+  "active": "9fcfaf066fd81c3f",
   "lastOpenFiles": [
+    "Places/Falonde.md",
+    "Places/Cities/Thired-upon-Sunt.md",
     "People/The Guild/Vor'onal.md",
     "People/The Guild/Drech.md",
     "People/The Guild/Serill the Loyal.md",
@@ -167,8 +170,6 @@
     "People/The Guild/Cathos.md",
     "People/The Guild/Imryll Quiwraek.md",
     "People/The Guild/Athtar Virzana.md",
-    "People/The Guild/Rathal Elren.md",
-    "People/The Guild/Hudmoum Oakback.md",
-    "Places/Cities/unused/Doriande.md"
+    "People/The Guild/Rathal Elren.md"
   ]
 }
