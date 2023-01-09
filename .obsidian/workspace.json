@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "613f3792a845bd52",
+        "id": "1d6023c1bcbcf4d8",
         "type": "tabs",
         "children": [
           {
-            "id": "9fcfaf066fd81c3f",
+            "id": "f62fcdb63e6aaaf9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
@@ -123,53 +123,45 @@
             }
           },
           {
-            "id": "18b82c9d15af785c",
+            "id": "9912d1effb54417d",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
-          },
-          {
-            "id": "d8ab0cbe287f91fc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9fcfaf066fd81c3f",
+  "active": "f62fcdb63e6aaaf9",
   "lastOpenFiles": [
+    "People/Party/Sir Vistra of Corinth.md",
+    "Events/Earthfall.md",
+    "Tests/Test of the Starstone.md",
     "Places/Falonde.md",
-    "Places/Cities/Thired-upon-Sunt.md",
-    "People/The Guild/Vor'onal.md",
-    "People/The Guild/Drech.md",
-    "People/The Guild/Serill the Loyal.md",
-    "People/The Guild/Zuthruh.md",
-    "People/The Guild/Cathos.md",
-    "People/The Guild/Imryll Quiwraek.md",
-    "People/The Guild/Athtar Virzana.md",
-    "People/The Guild/Rathal Elren.md"
+    "Places/Cities/Banda, City of the Silver Tree.md",
+    "Places/Castles/Zigiml's Hold.md",
+    "Places/Untitled.md",
+    "People/Groups/The Guild.md",
+    "People/Party/Player Brian.md",
+    "People/Party/Player Steph.md"
   ]
 }

@@ -10,11 +10,12 @@ Sir Vistra of Corinth is a human Oath of the Ancients Paladin. He is brash and o
 
 > Here's to the Bard and his knob of a head. Here's to Cailean, the stone, and our dead. When the gate is knocked in, and the world is aflame, There's no wall but us, and the pay is the fame. - *A classic Cayden Cailean toast*
 
-## History
+## Backstory
 
-Raised among [[Lonmar Dwarves]] of [[Lonmar Heights]] as a foundling.
+Sir Vistra's birth parents are unknown. He was left as a foundling in the [[Lonmar Heights]]. Found by the [[Lonmar Dwarves]] and raised as one of their own.
 
-Upon coming of age at 15, he was sent down the mountain to live with the tall-folk. He was set up as a Page to the [[Duke of Corinth]], rising to the rank of Squire and now a Knight in Training. Part of the final steps of attaining knighthood is that Vistra needed to leave the dukedom and only return after attaining a great deed of heroism. He has now been serving with the Adventurer's Guild ([[Ember Swords]]) of [[Thired-upon-Sunt]], attaining the rank of "Assistant to the Captain."
+At his coming of age, 15, Vistra's adoptive parents sent him down the mountain to [[Corinth]]. Vistra's father had enlisted him as a Squire in service of the [[Duke of Corinth]]. After a few years, rising in the ranks as a Knight in training, Vistra was sent forth from the castle to complete his training. Part of the final steps of attaining knighthood is that Vistra needed to leave the dukedom and only return after attaining a great deed of heroism.
 
-Sir Vistra is a Paladin from the city state of Corinth. He was charged by his liege, the Lord of Corinth, to venture from the kingdom and spread the word of the light of Pelor.
+His travels on the road offered Vistra several opportunities to aid passersby, and eventually lead him to the city of [[Thired-upon-Sunt]] where he joined the [[Ember Swords]] (the established Adventurer's Guild). Vistra again rose through the ranks over a few years, attaining the rank of "Assistant to the Captain."
 
+Now, in his new position as "Assistant to the Captain," Vistra has been assigned to assess the applications of a new group of adventurers applying to the guild.
