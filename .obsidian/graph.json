@@ -8,45 +8,38 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:People/Party",
+      "query": "path:Adventures",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Places",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Events",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:Tests",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:People/Groups",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
+        "rgb": 15933472
       }
     },
     {
       "query": "path:People",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 2143806
+      }
+    },
+    {
+      "query": "path:People/Party",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Events",
+      "color": {
+        "a": 1,
+        "rgb": 13767884
+      }
+    },
+    {
+      "query": "path:Places",
+      "color": {
+        "a": 1,
+        "rgb": 10329075
       }
     }
   ],

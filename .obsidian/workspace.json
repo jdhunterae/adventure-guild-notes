@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f62fcdb63e6aaaf9",
+            "id": "a3b29217c6de7c66",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "0a2f86382b87fc17",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Adventures/Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Adventures/Guide.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Adventures/Guide.md"
+              }
             }
           },
           {
@@ -131,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,17 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f62fcdb63e6aaaf9",
+  "active": "a3b29217c6de7c66",
   "lastOpenFiles": [
     "People/Party/Sir Vistra of Corinth.md",
+    "People/The Guild/Captain Angmar Writingham.md",
+    "People/The Guild/Master Danore Talraidal.md",
+    "People/Party/Player Steph.md",
+    "Adventures/Guide.md",
     "Events/Earthfall.md",
     "Tests/Test of the Starstone.md",
     "Places/Falonde.md",
     "Places/Cities/Banda, City of the Silver Tree.md",
-    "Places/Castles/Zigiml's Hold.md",
-    "Places/Untitled.md",
-    "People/Groups/The Guild.md",
-    "People/Party/Player Brian.md",
-    "People/Party/Player Steph.md"
+    "Places/Castles/Zigiml's Hold.md"
   ]
 }
