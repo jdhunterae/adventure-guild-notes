@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "501b8fa2ca78006e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Perkins Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Ruins/The Fallen Abbey.md",
+                "file": "Adventures/Perkins Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Ruins/The Fallen Abbey.md",
+                "file": "Adventures/Perkins Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Ruins/The Fallen Abbey.md"
+                "file": "Adventures/Perkins Guide.md"
               }
             }
           },
@@ -157,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4c0b3558ff12ff4",
+  "active": "501b8fa2ca78006e",
   "lastOpenFiles": [
-    "res/maps/dungeons/the-fallen-abbey.jpg",
+    "Adventures/Dalen Guide.md",
+    "Adventures/Perkins Guide.md",
     "Places/Ruins/The Fallen Abbey.md",
+    "res/maps/dungeons/the-fallen-abbey.jpg",
     "Places/Falonde.md",
-    "Adventures/Guide.md",
     "People/Party/Sir Vistra of Corinth.md",
     "People/The Guild/Captain Angmar Writingham.md",
     "People/The Guild/Master Danore Talraidal.md",
     "People/Party/Player Steph.md",
-    "Events/Earthfall.md",
-    "Tests/Test of the Starstone.md"
+    "Events/Earthfall.md"
   ]
 }
