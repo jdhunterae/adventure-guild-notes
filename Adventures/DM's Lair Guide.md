@@ -30,7 +30,7 @@ An elven village in the Sharp Teeth Wood.
 
 ### Avandith Stargazer
 
-Elven druid who has been corrupted by the Gulithais Tree in the Sharp Teeth Wood. *Motivation*: spread the power of the Gulithais Tree throughout the forest and corrupt all living beings by feeding them a drink made from the sap in the blisters of the Gulithias Tree. *Means*: uses blights, her own magic, and deception to capture elves from Lamaltee and corrupt them.
+Elven druid who has been corrupted by the Gulithais Tree in the Sharp Teeth Wood. _Motivation_: spread the power of the Gulithais Tree throughout the forest and corrupt all living beings by feeding them a drink made from the sap in the blisters of the Gulithias Tree. _Means_: uses blights, her own magic, and deception to capture elves from Lamaltee and corrupt them.
 
 ### Gulithias Tree
 
@@ -63,6 +63,7 @@ After arriving in the forest, they hear a child screaming. They find Onver, flee
 As they talk to him, corrupted plants attack them.
 
 **3 Twig Blights** (easy, 150 AXP, 75 XP)
+
 - clearing (heroes), tree line (twig blights)
 
 ## Finding Shalana
@@ -70,6 +71,7 @@ As they talk to him, corrupted plants attack them.
 Onver begs them to help him rescue Shalana. When they track down Shalana, they find she has been carried off by blighted plants. The blights are taking Shalana to the druid Avandith to be corrupted.
 
 **3 Twig Blights, 1 Needle Blight** (medium, 250 AXP, 125 XP)
+
 - front trees (blights), middle trees, rear trees (heroes)
 
 ## Return to Lamaltee
@@ -79,6 +81,7 @@ After rescuing Shalana, the elven children ask to be taken back to Lamaltee. How
 If the heroes DON'T tell the parents, have the parents drag out the truth about the blights. Then the parents ask the heroes to speak with Aelrindell Waterjump at Aubron Keep about the monsters.
 
 **Rewards.** The parents reward the heroes as follows:
+
 - Kurtice Sourdirt gives EACH of them 3 healing potions and 1 greater healing potion.
 - Abigail Oakbow gives them 100 gp and a 10% discount in her shop in the village.
 
@@ -97,6 +100,7 @@ For rescuing the children, exploring their new world, and agreeing to help the e
 As they search and investigate the forest, they hear howling in the distance, and a pack of wolves descend upon them. Allow animal handling checks to make the wolves leave them alone (the wolves are hungry, there is little game in the corrupted part of the forest).
 
 **5 Wolves** (medium, 500 AXP, 250 XP)
+
 - left of stream (wolves), stream, right of stream (heroes)
 
 ## A Song and a Dance
@@ -104,6 +108,7 @@ As they search and investigate the forest, they hear howling in the distance, an
 The heroes hear music (panpipes) playing off in the distance. A drunken satyr named Zhaiket is playing panpipes in a small glade. Several empty wine flasks lie about him.
 
 ### Zhaiket interactions
+
 - He is initially surprised by the heroes.
 - He's getting drunk because his wife Vufu has been missing for days and he can't find her.
 - After some banter, he asks if they have any wine.
