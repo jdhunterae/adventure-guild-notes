@@ -113,4 +113,22 @@ The heroes hear music (panpipes) playing off in the distance. A drunken satyr na
 - He's getting drunk because his wife Vufu has been missing for days and he can't find her.
 - After some banter, he asks if they have any wine.
 - If they don't give him wine, he begins playing his panpipes, trying to put them to sleep. If he succeeds, he'll steal all their coins and gems and then run off.
-- If the heroes best him or make friends with him somehow (perhaps they promise him wine),
+- If the heroes best him or make friends with him somehow (perhaps they promise him wine), he'll assist them as he's able, including showing them where the blighted part of the forest begins.
+- He can tell them about a diseased tree at the center that he believes is causing the corruption.
+- The tree lies in the center of a ravine.
+
+**1 satyr** (trivial, 100 AXP, 100 XP)
+- Campfire (satyr), trees (heroes)
+
+## Entering the Blight
+
+> The diseased, blighted part of the forest is very dark. Corrupted trees and undergrowth are all about. Thick vines cover much of the ground.
+
+As they walk, the shrubs and vines come to life and attack them.
+
+**2 Shrub Blight, 4 Twig Blight** (hard, 600 AXP, 300 XP)
+- Undergrowth (heroes), Vine covered ground (blights)
+
+## The Ravine
+
+The trail leads them to a long ravine, some 50 feet deep. As they travel along it, needle blights ambush them from atop the ravine.
