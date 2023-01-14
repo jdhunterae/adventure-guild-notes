@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "790133605af8ef9a",
+        "id": "6fb0b049eab57a73",
         "type": "tabs",
         "children": [
           {
-            "id": "783342a2c41640b5",
+            "id": "59190c22afe395c5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,15 +150,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "783342a2c41640b5",
+  "active": "59190c22afe395c5",
   "lastOpenFiles": [
+    "Monsters/Satyr.md",
+    "Monsters/Druid.md",
+    "Monsters/Guard.md",
     "Adventures/DM's Lair Guide.md",
-    "Avandith Stargazer.md",
-    "Sharp Teeth Wood.md",
-    "Satyr.md",
-    "Druid.md",
-    "Guard.md",
-    "Lamaltee.md",
+    "People/NPCs/Avandith Stargazer.md",
+    "Places/Sharp Teeth Wood.md",
+    "Places/Lamaltee.md",
     "Monsters/Vine Blight.md",
     "Monsters/Needle Blight.md",
     "Monsters/Wolf.md"
