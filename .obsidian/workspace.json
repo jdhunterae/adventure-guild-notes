@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "93b25146a90e400b",
+        "id": "790133605af8ef9a",
         "type": "tabs",
         "children": [
           {
-            "id": "f4c0b3558ff12ff4",
+            "id": "783342a2c41640b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Ruins/The Fallen Abbey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "501b8fa2ca78006e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Perkins Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76d29a5c3cdae6db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/DM's Lair Guide.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/DM's Lair Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/DM's Lair Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Adventures/DM's Lair Guide.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e67ffdebfec4617",
+  "active": "783342a2c41640b5",
   "lastOpenFiles": [
-    "Adventures/Perkins Guide.md",
-    "Adventures/Dalen Guide.md",
-    "Places/Ruins/The Fallen Abbey.md",
-    "res/maps/dungeons/the-fallen-abbey.jpg",
-    "Places/Falonde.md",
-    "People/Party/Sir Vistra of Corinth.md",
-    "People/The Guild/Captain Angmar Writingham.md",
-    "People/The Guild/Master Danore Talraidal.md",
-    "People/Party/Player Steph.md",
-    "Events/Earthfall.md"
+    "Adventures/DM's Lair Guide.md",
+    "Avandith Stargazer.md",
+    "Sharp Teeth Wood.md",
+    "Satyr.md",
+    "Druid.md",
+    "Guard.md",
+    "Lamaltee.md",
+    "Monsters/Vine Blight.md",
+    "Monsters/Needle Blight.md",
+    "Monsters/Wolf.md"
   ]
 }
