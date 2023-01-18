@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb0b049eab57a73",
+        "id": "2bbbe7a9fbb11456",
         "type": "tabs",
         "children": [
           {
-            "id": "59190c22afe395c5",
+            "id": "948eb4d0dae655e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "res/maps/dungeons/the-fallen-abbey.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "res/maps/dungeons/the-fallen-abbey.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "res/maps/dungeons/the-fallen-abbey.jpg"
+              }
             }
           },
           {
@@ -150,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59190c22afe395c5",
+  "active": "e22255c528ae06bc",
   "lastOpenFiles": [
     "Monsters/Satyr.md",
     "Monsters/Druid.md",
