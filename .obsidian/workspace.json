@@ -8,14 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "948eb4d0dae655e6",
+            "id": "59190c22afe395c5",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "res/maps/dungeons/the-fallen-abbey.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "res/maps/dungeons/the-fallen-abbey.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "res/maps/dungeons/the-fallen-abbey.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e22255c528ae06bc",
+  "active": "59190c22afe395c5",
   "lastOpenFiles": [
+    "People/Gods/The Ascended.md",
+    "People/Gods/The Ascended/Cayden Cailean.md",
     "Monsters/Satyr.md",
     "Monsters/Druid.md",
     "Monsters/Guard.md",
@@ -163,8 +162,6 @@
     "People/NPCs/Avandith Stargazer.md",
     "Places/Sharp Teeth Wood.md",
     "Places/Lamaltee.md",
-    "Monsters/Vine Blight.md",
-    "Monsters/Needle Blight.md",
-    "Monsters/Wolf.md"
+    "Monsters/Vine Blight.md"
   ]
 }
