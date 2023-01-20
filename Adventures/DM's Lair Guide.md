@@ -108,7 +108,6 @@ As they search and investigate the forest, they hear howling in the distance, an
 The heroes hear music (panpipes) playing off in the distance. A drunken satyr named Zhaiket is playing panpipes in a small glade. Several empty wine flasks lie about him.
 
 ### Zhaiket interactions
-
 - He is initially surprised by the heroes.
 - He's getting drunk because his wife Vufu has been missing for days and he can't find her.
 - After some banter, he asks if they have any wine.
@@ -135,6 +134,7 @@ The trail leads them to a long ravine, some 50 feet deep. As they travel along i
 
 **3 Needle Blights** (easy, 300 AXP, 150 XP)
 - Bottom of the ravine (heroes), left side of ravine, right side of ravine (blights)
+
 ## Corpses
 
 There are the corpses of 3 goblins and 1 hobgoblin in the ravine. The monsters were attacked and killed by the blights several days ago. The monsters came from the south, scouting out new territory for expansion.
@@ -171,7 +171,6 @@ Cauldron is brewing over a fire, cooking more of the Gulithias potion to corrupt
 
 **1 druid, 1 giant  wolf spider** (hard, 750 AXP, 500 XP)
 - Webbing (wolf spider), brewing chamber (heroes), Avandith's Room (Avandith)
-
 
 ## Wolf Spider's Lair
 
@@ -214,14 +213,3 @@ Opening the lid of the chest causes a cloud of poison to spill out and fill the 
 **Aelrindell rewards them**: Potion of healing x4, potion of climbing, 10 moonstone gems (50 gp each), 100 gp.
 
 **Faction increase**. [[Elves of Lamaltee]] +1, [[Ember Swords]] +1
-
-
-
-
-
-
-
-
-
-
-

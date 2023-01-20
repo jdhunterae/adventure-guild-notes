@@ -183,6 +183,19 @@
           "end": null,
           "description": "",
           "auto": true
+        },
+        {
+          "id": "ID_4899699b2ab8",
+          "name": "The Great Calamity",
+          "note": "Events/The Great Calamity.md",
+          "date": {
+            "year": 0,
+            "month": 12,
+            "day": 32
+          },
+          "end": null,
+          "description": "",
+          "auto": true
         }
       ],
       "id": "ID_58c9ebc8999a",

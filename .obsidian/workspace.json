@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59190c22afe395c5",
+            "id": "ee32b40f7d7226df",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,15 +152,15 @@
   },
   "active": "59190c22afe395c5",
   "lastOpenFiles": [
-    "People/Gods/The Ascended.md",
-    "People/Gods/The Ascended/Cayden Cailean.md",
-    "Monsters/Satyr.md",
-    "Monsters/Druid.md",
-    "Monsters/Guard.md",
-    "Adventures/DM's Lair Guide.md",
+    "People/Party/Axel Black.md",
     "People/NPCs/Avandith Stargazer.md",
-    "Places/Sharp Teeth Wood.md",
-    "Places/Lamaltee.md",
-    "Monsters/Vine Blight.md"
+    "People/NPCs/The Ascended/Cayden Cailean.md",
+    "Adventures/DM's Lair Guide.md",
+    "Events/The Great Calamity.md",
+    "2023-01-17.md",
+    "Events/Earthfall.md",
+    "People/Gods/The Ascended.md",
+    "Ahinar Mori.md",
+    "People/Gods/Moradin.md"
   ]
 }
