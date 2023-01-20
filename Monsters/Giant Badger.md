@@ -1,0 +1,4 @@
+
+```statblock
+monster: Giant Badger
+```

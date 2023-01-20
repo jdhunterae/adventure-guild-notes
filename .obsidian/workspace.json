@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2bbbe7a9fbb11456",
+        "id": "c3dbae63003673c8",
         "type": "tabs",
         "children": [
           {
-            "id": "ee32b40f7d7226df",
+            "id": "7cd79cbdc7e5d526",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/DM's Lair Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Adventures/DM's Lair Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "Adventures/DM's Lair Guide.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Adventures/DM's Lair Guide.md"
+              }
             }
           },
           {
@@ -134,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,17 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59190c22afe395c5",
+  "active": "7cd79cbdc7e5d526",
   "lastOpenFiles": [
-    "People/Party/Axel Black.md",
-    "People/NPCs/Avandith Stargazer.md",
-    "People/NPCs/The Ascended/Cayden Cailean.md",
+    "Monsters/Goblin.md",
     "Adventures/DM's Lair Guide.md",
-    "Events/The Great Calamity.md",
-    "2023-01-17.md",
-    "Events/Earthfall.md",
+    "Monsters/Guard.md",
+    "Monsters/Hobgoblin.md",
+    "Things/Gulithais Tree.md",
+    "Monsters/Giant Badger.md",
     "People/Gods/The Ascended.md",
-    "Ahinar Mori.md",
-    "People/Gods/Moradin.md"
+    "People/Gods/The Ascended/Cayden Cailean.md",
+    "Monsters/Satyr.md",
+    "Monsters/Druid.md"
   ]
 }

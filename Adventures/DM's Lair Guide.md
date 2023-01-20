@@ -7,7 +7,7 @@
 - [[Vine Blight]] (MM 32, CR 1/2, 100 XP)
 - [[Wolf]] (MM 341, CR 1/4, 50 XP)
 - [[Satyr]] (MM 267, CR 1/2, 100 XP)
-- Giant Wolf Spider (MM 330, CR 1/4, 50 XP)
+- [[Giant Badger]] (MM 330, CR 1/4, 50 XP)
 - [[Guard]] (MM 347, CR 1/8, 25 XP)
 - [[Druid]] (MM 346, CR 2, 450 XP)
 
@@ -18,7 +18,7 @@
 
 ## Storyline
 
-Pandas find themselves in a strange forest. The help Onver and Shalana against the plant blights, and escort them back to Lamaltee. Their parents are very grateful and reward them. The heroes meet with Aelrindell and Nasair to discuss the evil plants. Aelrindell asks them to find out what's going on. In exchange, she will see what can be done to help the pandas get back to their home.
+Pandas find themselves in a strange forest. The help Onver and Shalana against the plant blights, and escort them back to [[Lamaltee]]. Their parents are very grateful and reward them. The heroes meet with Aelrindell and Nasair to discuss the evil plants. Aelrindell asks them to find out what's going on. In exchange, she will see what can be done to help the pandas get back to their home.
 
 ## Locations
 
@@ -30,7 +30,7 @@ An elven village in the [[Sharp Teeth Wood]].
 
 ### [[Avandith Stargazer]]
 
-Elven druid who has been corrupted by the Gulithais Tree in the Sharp Teeth Wood. _Motivation_: spread the power of the Gulithais Tree throughout the forest and corrupt all living beings by feeding them a drink made from the sap in the blisters of the Gulithias Tree. _Means_: uses blights, her own magic, and deception to capture elves from Lamaltee and corrupt them.
+Elven [[druid]] who has been corrupted by the [[Gulithais Tree]] in the [[Sharp Teeth Wood]]. _Motivation_: spread the power of the [[Gulithais Tree]] throughout the forest and corrupt all living beings by feeding them a drink made from the sap in the blisters of the [[Gulithias Tree]]. _Means_: uses blights, her own magic, and deception to capture elves from [[Lamaltee]] and corrupt them.
 
 ### Gulithias Tree
 
@@ -56,7 +56,7 @@ After arriving in the forest, they hear a child screaming. They find Onver, flee
 
 ### Onver's Story
 
-- He and his friend Shalana were in the forest picnicking (they left Lamaltee without their parent's permission) when demons attacked them.
+- He and his friend Shalana were in the forest picnicking (they left [[Lamaltee]] without their parent's permission) when demons attacked them.
 - Demons were thin monsters blacker than midnight.
 - Shalana stayed to fight them; Onver ran away.
 
@@ -64,19 +64,19 @@ As they talk to him, corrupted plants attack them.
 
 **3 Twig Blights** (easy, 150 AXP, 75 XP)
 
-- clearing (heroes), tree line (twig blights)
+- clearing (heroes), tree line ([[twig blight]])
 
 ## Finding Shalana
 
-Onver begs them to help him rescue Shalana. When they track down Shalana, they find she has been carried off by blighted plants. The blights are taking Shalana to the druid Avandith to be corrupted.
+Onver begs them to help him rescue Shalana. When they track down Shalana, they find she has been carried off by blighted plants. The blights are taking Shalana to the [[druid]] Avandith to be corrupted.
 
 **3 [[Twig Blight]], 1 [[Needle Blight]]** (medium, 250 AXP, 125 XP)
 
 - front trees (blights), middle trees, rear trees (heroes)
 
-## Return to Lamaltee
+## Return to [[Lamaltee]]
 
-After rescuing Shalana, the elven children ask to be taken back to Lamaltee. However, they beg the heroes not to tell their parents about this because they weren't supposed to have left the village.
+After rescuing Shalana, the elven children ask to be taken back to [[Lamaltee]]. However, they beg the heroes not to tell their parents about this because they weren't supposed to have left the village.
 
 If the heroes DON'T tell the parents, have the parents drag out the truth about the blights. Then the parents ask the heroes to speak with Aelrindell Waterjump at Aubron Keep about the monsters.
 
@@ -105,7 +105,7 @@ As they search and investigate the forest, they hear howling in the distance, an
 
 ## A Song and a Dance
 
-The heroes hear music (panpipes) playing off in the distance. A drunken satyr named Zhaiket is playing panpipes in a small glade. Several empty wine flasks lie about him.
+The heroes hear music (panpipes) playing off in the distance. A drunken [[satyr]] named Zhaiket is playing panpipes in a small glade. Several empty wine flasks lie about him.
 
 ### Zhaiket interactions
 - He is initially surprised by the heroes.
@@ -116,8 +116,8 @@ The heroes hear music (panpipes) playing off in the distance. A drunken satyr na
 - He can tell them about a diseased tree at the center that he believes is causing the corruption.
 - The tree lies in the center of a ravine.
 
-**1 satyr** (trivial, 100 AXP, 100 XP)
-- Campfire (satyr), trees (heroes)
+**1 [[satyr]]** (trivial, 100 AXP, 100 XP)
+- Campfire ([[satyr]]), trees (heroes)
 
 ## Entering the Blight
 
@@ -137,10 +137,10 @@ The trail leads them to a long ravine, some 50 feet deep. As they travel along i
 
 ## Corpses
 
-There are the corpses of 3 goblins and 1 hobgoblin in the ravine. The monsters were attacked and killed by the blights several days ago. The monsters came from the south, scouting out new territory for expansion.
+There are the corpses of 3 [[goblin]] and 1 [[hobgoblin]] in the ravine. The monsters were attacked and killed by the blights several days ago. The monsters came from the south, scouting out new territory for expansion.
 
-**Goblin loot**: Scimitar x3, leather armor x3, shield x3 (all weapons and armor are poor quality).
-**Hobgoblin loot**: chainmail, shield, longsword, longbow, 20 arrows (all good quality in good repair)
+**[[Goblin]] loot**: Scimitar x3, leather armor x3, shield x3 (all weapons and armor are poor quality).
+**[[Hobgoblin]] loot**: chainmail, shield, longsword, longbow, 20 arrows (all good quality in good repair)
 **Monetary loot**: The creatures have a total of 1500 cp, 750 sp, and 10 gp on them.
 
 ## Clearing in the Ravine
@@ -158,7 +158,7 @@ The corrupted elves attack if they notice the intrudors. It might somehow be pos
 
 ## Captive Cells
 
-Thick roots form a barrier that holds captive 3 elves (Dalyor, Fadithas, and Cellica, a hunting party from Lamaltee) and 1 satyr (Vufu, Zhaiket's wife). The Captives have but their clothes on them.
+Thick roots form a barrier that holds captive 3 elves (Dalyor, Fadithas, and Cellica, a hunting party from [[Lamaltee]]) and 1 [[satyr]] (Vufu, Zhaiket's wife). The Captives have but their clothes on them.
 
 ## Brewing Chamber
 
@@ -166,17 +166,17 @@ Cauldron is brewing over a fire, cooking more of the Gulithias potion to corrupt
 
 ### Final Battle Notes
 
-- Making too much noise in the brewing chamber or touching the webbing causes the giant wolf spider to rush out and attack. The druid joins the battle in round 2.
-- Opening the door to Avandith's room causes the druid to shout out a warnning and attakc. The giant wolf spider will join the battle in round 2.
+- Making too much noise in the brewing chamber or exploring the tunnel causes the [[Giant Badger]] to rush out and attack. The [[druid]] joins the battle in round 2.
+- Opening the door to Avandith's room causes the [[druid]] to shout out a warning and attack. The [[Giant Badger]] will join the battle in round 2.
 
-**1 druid, 1 giant  wolf spider** (hard, 750 AXP, 500 XP)
-- Webbing (wolf spider), brewing chamber (heroes), Avandith's Room (Avandith)
+**1 [[Druid]], 1 [[Giant Badger]]** (hard, 750 AXP, 500 XP)
+- hole in the ground ([[Giant Badger]]), brewing chamber (heroes), Avandith's Room (Avandith)
 
-## Wolf Spider's Lair
+## Badgers Burrow
 
-> A dense funnel of webbing leads into this room. Bits of clothing and flesh stick to parts of the webbing.
+> A dark tunnel is burrowed into the floor that tunnels beneath the [[Gulithais Tree]] and leads into this room. Bits of clothing and flesh are half buried in the rubble that lines the walls of the tunnel.
 
-In the webbing are the remains of the spider's meals: bones, leather scraps, and bits of clothing.
+In the burrow are the remains of the badger's meals: bones, leather scraps, and bits of clothing.
 
 ## Avandith's Room
 
