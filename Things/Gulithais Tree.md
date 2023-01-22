@@ -1,0 +1,1 @@
+An infested tree in the [[Sharp Teeth Wood]] that is affecting the residents of [[Lamaltee]].

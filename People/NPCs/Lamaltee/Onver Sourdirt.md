@@ -1,0 +1,1 @@
+Male elven adolescent (35 years old). Child of Kurtice and [[Haurisha Sourdirt]]. Somewhat timid, a quiet troublemaker, quick to flee from problems.

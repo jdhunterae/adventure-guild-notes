@@ -18,7 +18,7 @@
 
 ## Storyline
 
-Pandas find themselves in a strange forest. The help Onver and Shalana against the plant blights, and escort them back to [[Lamaltee]]. Their parents are very grateful and reward them. The heroes meet with Aelrindell and Nasair to discuss the evil plants. Aelrindell asks them to find out what's going on. In exchange, she will see what can be done to help the pandas get back to their home.
+The party find themselves assigned to solve a mystery of missing children in a strange forest. The help Onver and Shalana against the plant blights, and escort them back to [[Lamaltee]]. Their parents are very grateful and reward them. The heroes meet with Aelrindell and Nasair to discuss the evil plants. Aelrindell asks them to find out what's going on. In exchange, she will see what can be done to help the pandas get back to their home.
 
 ## Locations
 
@@ -32,11 +32,11 @@ An elven village in the [[Sharp Teeth Wood]].
 
 Elven [[druid]] who has been corrupted by the [[Gulithais Tree]] in the [[Sharp Teeth Wood]]. _Motivation_: spread the power of the [[Gulithais Tree]] throughout the forest and corrupt all living beings by feeding them a drink made from the sap in the blisters of the [[Gulithias Tree]]. _Means_: uses blights, her own magic, and deception to capture elves from [[Lamaltee]] and corrupt them.
 
-### Gulithias Tree
+### [[Gulithias Tree]]
 
 Evil tree that originated from all the blood of a vampire named Gulithias. Its evil spreads through the soil of a forest, eventually corrupting all plants and animals in the forest.
 
-### Onver Sourdirt
+### [[Onver Sourdirt]]
 
 Male elven adolescent (35 years old). Child of Kurtice and Haurisha Sourdirt. Somewhat timid, a quiet troublemaker, quick to flee from problems.
 
@@ -154,7 +154,7 @@ The corrupted elves attack if they notice the intrudors. It might somehow be pos
 
 **Corrupted elves loot**: Longsword x2, scimatar, short sword, chain shirt x4, shield x4
 
-**Destroying the Gulithias Tree**. The tree can be destroyed by various means. See what the heroes try. Knowledge checks reveal that perhaps chopping the tree down, pulling out the stump and roots, and then burning them should destroy it.
+**Destroying the [[Gulithias Tree]]**. The tree can be destroyed by various means. See what the heroes try. Knowledge checks reveal that perhaps chopping the tree down, pulling out the stump and roots, and then burning them should destroy it.
 
 ## Captive Cells
 

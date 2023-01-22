@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c3dbae63003673c8",
+        "id": "f32aa2b55a82d481",
         "type": "tabs",
         "children": [
           {
-            "id": "7cd79cbdc7e5d526",
+            "id": "e5a9b8f26c190108",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/DM's Lair Guide.md",
+                "file": "Places/Ruins/The Fallen Abbey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fd9fa700df8b1cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Ruins/Gulithais Tree Base.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/DM's Lair Guide.md",
+                "file": "Places/Ruins/Gulithais Tree Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/DM's Lair Guide.md",
+                "file": "Places/Ruins/Gulithais Tree Base.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/DM's Lair Guide.md"
+                "file": "Places/Ruins/Gulithais Tree Base.md"
               }
             }
           },
@@ -157,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cd79cbdc7e5d526",
+  "active": "1fd9fa700df8b1cc",
   "lastOpenFiles": [
-    "Monsters/Goblin.md",
-    "Adventures/DM's Lair Guide.md",
-    "Monsters/Guard.md",
-    "Monsters/Hobgoblin.md",
+    "People/Groups/Elves of Lamaltee.md",
+    "Places/Ruins/Gulithais Tree Base.md",
+    "Places/Ruins/The Fallen Abbey.md",
+    "Adventures/01 Sharp Teeth Woods.md",
+    "Adventures/Dalen Guide.md",
+    "People/NPCs/Lamaltee/Kurtis Sourdirt.md",
+    "People/NPCs/Lamaltee/Onver Sourdirt.md",
     "Things/Gulithais Tree.md",
-    "Monsters/Giant Badger.md",
-    "People/Gods/The Ascended.md",
-    "People/Gods/The Ascended/Cayden Cailean.md",
-    "Monsters/Satyr.md",
-    "Monsters/Druid.md"
+    "People/NPCs/Lamaltee/Haurisha Sourdirt.md",
+    "Gulithias Tree.md"
   ]
 }
